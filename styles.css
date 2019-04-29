@@ -1,0 +1,34 @@
+body {
+background-image: url("Background.jpg")
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 600;
+	
+}
+img{
+	margin-left: -1em;
+	opacity: .7;
+}
+h1 {
+	font-family:impact;
+	font-size:70px;
+	letter-spacing: 0.09em;
+	margin-left: -1em;
+	opacity: .7;
+	
+}
+
+
+.navbar-nav > li{
+  padding-left:15px;
+  padding-right:15px;
+}
+
+.rowstyle{
+	margin-left: 20px;
+}
+
